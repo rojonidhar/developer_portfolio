@@ -3,20 +3,27 @@ body{
 }
 h1{
     font-size: 50px;
+    
 }
 .head{
-    color: rgb(243, 167, 4);
+    color: rgba(241, 148, 7, 0.856);
 }
-section{
-    display: flex;
+
+.one{
+    display: flex; 
+    
 }
+
 .first{
-    width: 50%;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
     padding-left: 10%;
+   
 
 }
 .second img{
-    
+    display: flex;
  padding: 60%;
 
 }
@@ -27,4 +34,75 @@ section{
   border-radius: 5px;
   color: white;
   font-weight: 700;
+}
+.third{
+    color: rgb(173, 219, 5);
+}
+
+h3{
+    font-size: 50px;
+    padding-left: 40%;
+}
+#year{
+    color: rgb(255, 0, 64);
+}
+.two{
+    display: flex;
+    padding: 5px;
+    
+}
+.exter{
+    margin-bottom: 10% ;
+}
+.card{
+    padding: 20px;
+    text-align: left;  
+   
+}
+.contect{
+   
+    padding: 10px 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
+.box{
+    background-color: rgb(250, 210, 250);
+    border-radius: 20px;
+    padding: 5%;
+}
+
+.box2{
+    background-color: rgb(176, 219, 243);
+    border-radius: 20px;
+  
+}
+    
+.box3{
+    background-color: rgb(175, 250, 200);
+    border-radius: 20px;
+     padding: 5%;
+}
+  .box5{
+      background-color: rgb(24, 23, 23);
+      padding: 20px;
+      text-align: center;
+      color: white;
+  }    
+.sec{
+    padding-left: 20%;
+
+}
+.last{
+   
+    padding-top: 10%;
+    padding-left: 20%;
+}
+#color{
+    font-family: 'Times New Roman', Times, serif;
+    background-image: linear-gradient(rgb(162, 241, 35),rgb(255, 238, 0));
+    text-align: center;
+    padding: 56;
+
 }
