@@ -1,0 +1,30 @@
+body{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.head{
+    color: rgb(243, 167, 4);
+}
+section{
+    display: flex;
+}
+.first{
+    width: 50%;
+    padding-left: 10%;
+
+}
+.second img{
+    
+ padding: 60%;
+
+}
+.button{
+  text-decoration: none ;
+ background-image: linear-gradient( red,tomato);
+  padding: 10px 10px;
+  border-radius: 5px;
+  color: white;
+  font-weight: 700;
+}
